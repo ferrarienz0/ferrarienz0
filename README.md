@@ -1,5 +1,21 @@
-### Hi there 👋
+### Enzo Ferrari 
 
+Computer Engineering student :desktop_computer:
+
+#### 📫 How to reach me
+
+Just email me =P (it's on the profile description)
+
+#### 🌱 I’m currently learning
+ - Programming Languages
+    - **Go**: focused on backend development
+    - **Rust**: focused on backend development
+
+- Topics
+    - **CyberSec**
+    - **Code Architecture**
+    
+I do a lot of unusual fun projects to learn something :joystick:
 <!--
 **ferrarienz0/ferrarienz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
