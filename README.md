@@ -10,6 +10,7 @@ Just email me =P (it's on the profile description)
  - Programming Languages
     - **Go**: focused on backend development
     - **Rust**: focused on backend development
+    - **Elixir**: focused on backend development
 
 - Topics
     - **CyberSec**
